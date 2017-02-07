@@ -4,7 +4,8 @@ A1:upgrade curl
     brew install curl
 
 A2:change to ssh way.
-    1､You can see how to connecting to github with ssh by the following website:https://help.github.com/articles/connecting-to-github-with-ssh/
+    1､You can see how to connecting to github with ssh by the following url:
+        https://help.github.com/articles/connecting-to-github-with-ssh/
 
         1)ssh-keygen -t rsa -b 4096 -C "your_git_account_email@example.com"
         2)eval "$(ssh-agent -s)"
